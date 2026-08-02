@@ -19,7 +19,7 @@
 - 🏅 **Microsoft Certified: Azure AI Engineer Associate** – GenAI, NLP, Computer Vision
 - 🧩 **260+** problems solved on [LeetCode](https://leetcode.com/u/sergiyclas/) (87 easy / 154 medium / 19 hard)
 - 🔍 Currently digging into agent orchestration, retrieval quality and local inference
-- 🚀 Previously founded **Nevek** – an OCR/CV tool that cut visual-content translation time by 75%
+- 🚀 Previously founded [**Nevek**](https://www.linkedin.com/company/nevek) – an OCR/CV tool that cut visual-content translation time by 75%
 
 ---
 
