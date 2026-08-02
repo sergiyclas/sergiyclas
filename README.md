@@ -16,7 +16,7 @@
 
 - 💼 Building multi-agent systems and GraphRAG pipelines as an **AI Software Engineer** at **GlobalLogic**
 - 🎓 Studying **Computer Science** at **Lviv Polytechnic National University**
-- 🏅 **Microsoft Certified: Azure AI Engineer Associate** – GenAI, NLP, Computer Vision
+- 🏅 [**Microsoft Certified: Azure AI Engineer Associate**](https://www.linkedin.com/feed/update/urn:li:activity:7477617598348607488/) – GenAI, NLP, Computer Vision
 - 🧩 **260+** problems solved on [LeetCode](https://leetcode.com/u/sergiyclas/) (87 easy / 154 medium / 19 hard)
 - 🔍 Currently digging into agent orchestration, retrieval quality and local inference
 - 🚀 Previously founded [**Nevek**](https://www.linkedin.com/company/nevek) – an OCR/CV tool that cut visual-content translation time by 75%
