@@ -82,11 +82,12 @@
 
 | Project | Description | Stack |
 |:---|:---|:---|
+| [**citegraph-copilot**](https://github.com/sergiyclas/citegraph-copilot) | GraphRAG assistant over an 800-paper arXiv citation graph. Three agents over A2A, tools over MCP, human approval before the graph is mutated | LangGraph · Neo4j · A2A · MCP |
 | [**retrieval-arena**](https://github.com/sergiyclas/retrieval-arena) | Retrieval benchmark that runs in CI without an API key: IR metrics, bootstrap intervals and significance tests | Python · BEIR · sentence-transformers |
+| [**local-docs-assistant**](https://github.com/sergiyclas/local-docs-assistant) | Fully offline RAG over your own documents, with a benchmark comparing local models on the same corpus | Ollama · Chroma · FastAPI |
+| [**ai-inbox-triage**](https://github.com/sergiyclas/ai-inbox-triage) | Ticket triage that routes what it is confident about and asks a human when it is not | n8n · FastAPI · LLM tool use |
+| [**grid-outage-planner**](https://github.com/sergiyclas/grid-outage-planner) | Power grid outage scheduler: CIM XML topology, load forecasting and a priority queue over affected customers | Python · Gradio · NetworkX |
 | [**cocktail-rag-chatbot**](https://github.com/sergiyclas/cocktail-rag-chatbot) | RAG chatbot answering from a vector index of 425 recipes, with retrieved sources shown in the UI | FastAPI · LangChain · FAISS |
-| [**gl_diagnostic_network_roots**](https://github.com/sergiyclas/gl_diagnostic_network_roots) | Traceroute implementation in C with FQDN resolution and OpenWRT packaging | C · Makefile · OpenWRT |
-| [**cybersecurity-hackathon-2024-buglords**](https://github.com/sergiyclas/cybersecurity-hackathon-2024-buglords) | Network traffic anomaly detection, built at Cybersecurity Innovations Hackathon 2024 | Python · Gradio · Pandas |
-| [**clothes-shop**](https://github.com/sergiyclas/clothes-shop) | Full-stack e-commerce store with admin panel and role-based access | React · Node.js · MongoDB |
 
 ---
 
