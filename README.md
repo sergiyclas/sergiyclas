@@ -20,6 +20,7 @@
 - 🧩 **260+** problems solved on [LeetCode](https://leetcode.com/u/sergiyclas/) (87 easy / 154 medium / 19 hard)
 - 🔍 Currently digging into agent orchestration, retrieval quality and local inference
 - 🚀 Previously founded [**Nevek**](https://www.linkedin.com/company/nevek) – an OCR/CV tool that cut visual-content translation time by 75%
+- 📄 Check out my detailed [**Resume / CV**](https://drive.google.com/file/d/1TKdTf7nkmdm0eV-ByetV_VmOmv59cuvc/view?usp=sharing)
 
 ---
 
